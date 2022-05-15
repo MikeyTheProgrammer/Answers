@@ -3,4 +3,4 @@ for( index = 0; index <= 300; index++){
 
     sum+=index
 }
-console.log(sum)
+console.log(sum)    
