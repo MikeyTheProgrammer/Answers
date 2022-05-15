@@ -1,2 +1,2 @@
-course = "midbar"
+course = "midbar1"
 console.log(course);
